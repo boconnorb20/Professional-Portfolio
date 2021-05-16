@@ -5,15 +5,24 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #8bb6fb;
 }
 
 .header {
     padding: 15px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #9fc0eb;
-    color: #ffffff;
+    font-stretch: expanded;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #89b5ef;
+    color: #2f88e0;
 }
+
+.header h2 {
+    font-style: normal;
+    font-family: fantasy;
+    font-size: large;
+    text-align: right;
+    
+}     
 
 .header h1 {
     display: inline-block;
@@ -21,13 +30,14 @@ body {
       
 }
 
-.header h1 .seo {
+.header h1  {
     color: #d9dcd6;
 }
 
 .header {
     padding-top: 15px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-stretch: expanded;
+    font-style: oblique;
     font-size: 20px;
 }
 
@@ -54,33 +64,65 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("https://www.goodfreephotos.com/albums/bolivia/other-bolivia/mountains-and-lake-landscape-scenic.jpg");
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F190000%2Fvelka%2Fmountain-landscape-1469554996W8c.jpg&f=1&nofb=1");
     background-size: cover;
     background-position: center;
 }
 
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
 
+.content {
+    width: 96%;
+    flex-direction: row;
+    margin-left: 20px;
+}
 .About {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
+    color: #ffffff;
 }
 
 .Projects {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
+    margin-bottom: 30px;
+    padding: 10px;
+    height: 300px; 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
+    color: #ffffff;
 }
 
 .About img {
+    max-height: 500px;
+}
+
+.Projects img {
     max-height: 200px;
 }
 
 .About h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+    margin-bottom: 10px;
+    font-size: 50px;
 }
+
+.Projects h2 {
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
+
