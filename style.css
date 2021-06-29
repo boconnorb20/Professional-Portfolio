@@ -4,7 +4,7 @@
 
   :root {
     --primary: rgb(13, 50, 106);
-    --secondary: rgb(249, 184, 106);
+    --secondary: rgb(223, 173, 112);
     --tertiary: rgb(119, 124, 137);
     --dark: rgba(28, 29, 33, 1);
     --light: rgb(205, 205, 210);
@@ -159,7 +159,6 @@
   
   .flex-item {
     border: 5px solid var(--secondary);
-    background-color: var(--primary);
     color: var(--tertiary);
     min-height: 150px;
     max-height: 150px;
@@ -170,7 +169,7 @@
     margin: 0.5em;
     text-decoration: none;
     background-blend-mode: soft-light;
-    background-size: 150%;
+    background-size: 100%;
     transition: all 0.5s;
     font-size: 0.9rem;
   }
@@ -224,20 +223,20 @@
   
  
   .password-generator {
-    background-image: url("");
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.vRbJJ6edU8dVfy3LugQ2pQHaD-&pid=Api&P=0&w=338&h=182");
   }
   
   .workday-planner {
-    background-image: url("");
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.2G0qFhXaspH7sIyBG2epXQHaHa&pid=Api&P=0&w=300&h=300");
   }
   
   .weather-dashboard {
-    background-image: url("");
+    background-image: url("https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/science/weather-forecast-background.jpg");
   }
-  
+ 
   
   .food-for-your-brews {
-    background-image: url("");
+    background-image: url("https://www.tasteofhome.com/wp-content/uploads/2017/09/FB_shutterstock_692620477-1024x683.jpg");
   }
   
  
