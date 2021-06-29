@@ -1,11 +1,18 @@
-# Proj-2-2021
+# Professional Profile
 
-For my portfolio proiject..... I feel; like this is a work in progress as is life. 
+For my portfolio project.... Round 2 I wanted to display some of the new things I have learned and see where my trials and errors have taken me.  
 
-I have refrdactored some code from previous assignments. 
+I have refrdactored some code from previous assignments. I made this code mine with many tweaks and changes (many errors along the way).
 
-I am still very much have a lot to learn and I will continue to drive forward. 
+I still very much to learn in my drive for success. 
 
-Some of the code I can make work, some not. It, like anything is going to take some trials and efforts. 
+Technologies-Used: 
+- HTML
+- CSS
+- Bootstrap (mainly for ideas)
+- I would like to say I implemented Java Script but didn't find in necessary and I do not feel like I am 100% there with my JS skills as of yet. 
 
-I have ideas and designs of what I'd like to do, I jjst need to find  way to make it all work. 
+https://github.com/boconnorb20
+https://github.com/boconnorb20/Professional-Portfolio
+
+
